@@ -1,2 +1,2 @@
 # python-dev
-Pyhton development
+Python development
